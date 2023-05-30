@@ -1,0 +1,152 @@
+{
+  "name": "Moon Rabbits Dream About Virtual",
+  "description": "Based in Tsukino Mito Album Presentation",
+  "version": "3",
+  "color": "#E297B2",
+  "author": [
+    {
+      "name": "zuzumi#5335",
+      "id": "437579806616322049"
+    }
+  ],
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#2a1858",
+      "#2a1858"
+    ],
+    "HEADER_PRIMARY": [
+      "#E297B2",
+      "#E297B2"
+    ],
+    "HEADER_SECONDARY": [
+      "#dd88a7",
+      "#dd88a7"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#f0f0f5",
+      "#29293d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#DA4A60",
+      "#DA4A60"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#D5344C",
+      "#D5344C"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#CB2A42",
+      "#CB2A42"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#661420",
+      "#661420"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#A5273E",
+      "#E9AFC4"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#841F32",
+      "#E08FAD"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#741B2B",
+      "#D86F95"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0b041b",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#53131F",
+      "#CA3F72"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#741A2B",
+      "#CF4F7E"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#A5273E",
+      "#E9AFC4"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#841F32",
+      "#E08FAD"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#B72A43",
+      "#DC7FA1"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#000000",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#F0FF00",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#b6b6b6",
+      "#6a7480"
+    ],
+    "TEXT_LINK": [
+      "#D5344C",
+      "#D5344C"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#EDBFCF",
+    "PRIMARY_DARK_200": "#E9AFC3",
+    "PRIMARY_DARK_300": "#E59FB8",
+    "PRIMARY_DARK_360": "#E08FAD",
+    "PRIMARY_DARK_400": "#DC7FA1",
+    "PRIMARY_DARK_500": "#D86F95",
+    "PRIMARY_DARK_600": "#D35F89",
+    "PRIMARY_DARK_630": "#CF4F7E",
+    "PRIMARY_DARK_700": "#CA3F72",
+    "PRIMARY_DARK_800": "#C03568",
+    "PRIMARY_DARK_900": "#B0305F",
+    "BRAND_NEW": "#5e28d7"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#1E0D4B"
+  }
+}
