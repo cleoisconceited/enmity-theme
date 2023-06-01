@@ -31,42 +31,42 @@
     ],
             "CHAT_BACKGROUND": [
       "#2b3040",
-      "#2b3040"
+      "#ffade9"
     ],
     "BACKGROUND_PRIMARY": [
-      "#212327",
+      "FFC2DA",
       "#FFC2DA"
     ],
     "BACKGROUND_SECONDARY": [
-      "#1a1b1e",
+      "#FFADCE",
       "#FFADCE"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#151619",
+      "#FF99C2",
       "#FF99C2"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0e0f10",
+      "#FF85B6",
       "#FF85B6"
     ],
     "BACKGROUND_ACCENT": [
-      "#31353a",
+      "#FF70A9",
       "#FF70A9"
     ],
     "BACKGROUND_FLOATING": [
-      "#090a0b",
+      "#FF5C9D",
       "#FF5C9D"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#212326",
+      "#FFC2DA",
       "#FFC2DA"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#1a1b1e",
+      "#FFADCE",
       "#FFADCE"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#1a1b1e",
+      "#FFADCE",
       "#FFADCE"
     ],
     "BACKGROUND_MENTIONED": [
