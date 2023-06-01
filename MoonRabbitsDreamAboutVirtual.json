@@ -17,6 +17,10 @@
       "#FFFFFF",
       "#000000"
     ],
+    "CHAT_BACKGROUND": [
+      "212327",
+      "FFC2DA"
+    ],
     "TEXT_MUTED": [
       "#8d9196",
       "#5e6268"
