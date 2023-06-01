@@ -30,11 +30,11 @@
       "#3f444a"
     ],
     "CHAT_BACKGROUND": [
-      "#282424",
-      "#ffade9"
+      "#FFC2DA",
+      "#282424"
     ],
     "BACKGROUND_PRIMARY": [
-      "#FF4791",
+      "#282424",
       "#FFC2DA"
     ],
     "BACKGROUND_SECONDARY": [
@@ -124,9 +124,9 @@
   },
   "colours": {
     "PRIMARY_DARK_600": "#FFC2DA",
-    "PRIMARY_DARK_500": "#F25898",
-    "PRIMARY_DARK_630": "#8F345A",
-    "PRIMARY_DARK_800": "#491A2E",
+    "PRIMARY_DARK_500": "#000000",
+    "PRIMARY_DARK_630": "#EFAAC7",
+    "PRIMARY_DARK_800": "#B44171",
     "BRAND_NEW": "#F35999",
     "BRAND_NEW_360": "#F794BD",
     "WHITE": "#FFFFFF",
@@ -138,3 +138,4 @@
   },
   "color": "#2368FB"
 }
+
