@@ -102,8 +102,8 @@
       "#FFFFFF"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#transparent",
-      "#transparent"
+      "transparent",
+      "transparent"
     ],
     "CHANNEL_ICON": [
       "#FFFFFF",
