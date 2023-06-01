@@ -29,12 +29,12 @@
       "#3f444a",
       "#3f444a"
     ],
-            "CHAT_BACKGROUND": [
-      "#2b3040",
+    "CHAT_BACKGROUND": [
+      "#282424",
       "#ffade9"
     ],
     "BACKGROUND_PRIMARY": [
-      "FFC2DA",
+      "#282424",
       "#FFC2DA"
     ],
     "BACKGROUND_SECONDARY": [
