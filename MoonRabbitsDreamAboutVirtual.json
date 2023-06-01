@@ -34,39 +34,39 @@
       "#ffade9"
     ],
     "BACKGROUND_PRIMARY": [
-      "#282424",
+      "#FF4791",
       "#FFC2DA"
     ],
     "BACKGROUND_SECONDARY": [
-      "#FFADCE",
+      "#FF3385",
       "#FFADCE"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#FF99C2",
+      "#FF1F78",
       "#FF99C2"
     ],
     "BACKGROUND_TERTIARY": [
-      "#FF85B6",
+      "#FF0A6C",
       "#FF85B6"
     ],
     "BACKGROUND_ACCENT": [
-      "#FF70A9",
+      "#FF0A6C",
       "#FF70A9"
     ],
     "BACKGROUND_FLOATING": [
-      "#FF5C9D",
+      "#F50062",
       "#FF5C9D"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#FFC2DA",
+      "#FF4791",
       "#FFC2DA"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#FFADCE",
+      "#FF3385",
       "#FFADCE"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#FFADCE",
+      "#FF3385",
       "#FFADCE"
     ],
     "BACKGROUND_MENTIONED": [
