@@ -99,15 +99,15 @@
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#F0F2F2",
-      "#F0F2F2"
+      "#FFD6E7"
     ],
     "CHANNEL_ICON": [
       "#FFFFFF",
-      "#FFFFFF"
+      "#000000"
     ],
     "CHANNELS_DEFAULT": [
       "#FFFFFF",
-      "#FFFFFF"
+      "#000000"
     ],
     "HEADER_SECONDARY": [
       "#646464",
