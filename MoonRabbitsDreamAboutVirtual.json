@@ -29,6 +29,9 @@
       "#3f444a",
       "#3f444a"
     ],
+        "background": [
+        "color": "#FFD6E7"
+    ]
     "BACKGROUND_PRIMARY": [
       "#212327",
       "#FFC2DA"
