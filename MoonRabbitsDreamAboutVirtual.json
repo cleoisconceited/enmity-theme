@@ -30,8 +30,8 @@
       "#3f444a"
     ],
     "CHAT_BACKGROUND": [
-      "#FFC2DA",
-      "#282424"
+      "#282424",
+      "#FFC2DA"
     ],
     "BACKGROUND_PRIMARY": [
       "#282424",
@@ -138,4 +138,3 @@
   },
   "color": "#2368FB"
 }
-
