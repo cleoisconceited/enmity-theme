@@ -134,6 +134,10 @@
       "#0AADFF",
       "#0AADFF"
     ],
+    "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
+      "#FFC2DA",
+      "#FFC2DA"
+    ],
     "HEADER_SECONDARY": [
       "#646464",
       "#FFFFFF"
@@ -153,6 +157,7 @@
     "STATUS_RED": "#33BBFF",
     "STATUS_GREEN_600": "#FFC2DA",
     "PRIMARY_600": "#33BBFF",
+    "PRIMARY_700": "#FFC2DA",
     "YELLOW_300": "#33BBFF",
     "YELLOW_360": "#33BBFF",
     "YELLOW_400": "#33BBFF"
