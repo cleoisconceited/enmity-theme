@@ -139,9 +139,21 @@
     "STATUS_RED": "#33BBFF",
     "STATUS_GREEN_600": "#07F985",
     "PRIMARY_600": "#33BBFF",
+    "YELLOW_260": "#33BBFF",
     "YELLOW_300": "#33BBFF",
+    "YELLOW_330": "#33BBFF",
+    "YELLOW_345": "#33BBFF",
     "YELLOW_360": "#33BBFF",
-    "YELLOW_400": "#33BBFF"
+    "YELLOW_400": "#33BBFF",
+    "YELLOW_430": "#33BBFF",
+    "YELLOW_460": "#33BBFF",
+    "YELLOW_500": "#33BBFF",
+    "YELLOW_530": "#33BBFF",
+    "YELLOW_560": "#33BBFF",
+    "YELLOW_600": "#33BBFF",
+    "YELLOW_630": "#33BBFF",
+    "YELLOW_660": "#33BBFF",
+    "YELLOW_700": "#33BBFF",
     
   },
   "unsafe_colors": {
