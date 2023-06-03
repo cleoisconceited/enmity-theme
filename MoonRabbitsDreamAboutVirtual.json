@@ -30,6 +30,10 @@
       "#3f444a",
       "#3f444a"
     ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFC2DA",
+      "#FFC2DA"
+    ],
     "CHAT_BACKGROUND": [
       "#FFC2DA",
       "#282424"
