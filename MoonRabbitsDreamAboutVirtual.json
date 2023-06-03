@@ -126,6 +126,10 @@
       "#FFFFFF",
       "#000000"
     ],
+    "DEPRECATED_TEXT_INPUT_BG": [
+       "#FFC2DA",
+       "#FFC2DA"
+    ],
     "BRAND_NEW": [
       "#33bbff",
       "#33bbff"
