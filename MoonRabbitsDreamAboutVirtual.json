@@ -8,7 +8,8 @@
       "id": "437579806616322049"
     }
   ],
-  "theme_color_map": {
+  "spec": 2,
+   "semanticColors": {
     "KEYBOARD": [
       "#101014",
       "#FFC2DA"
