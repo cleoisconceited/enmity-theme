@@ -134,7 +134,7 @@
       "#FFFFFF"
     ]
   },
-  "colours": {
+  "rawColors": {
     "PRIMARY_DARK_600": "#FFC2DA",
     "PRIMARY_DARK_500": "#000000",
     "PRIMARY_DARK_630": "#EFAAC7",
@@ -145,7 +145,11 @@
     "WHITE": "#FFFFFF",
     "STATUS_RED": "#33BBFF",
     "STATUS_GREEN_600": "#07F985",
-    "PRIMARY_600": "#33BBFF"
+    "PRIMARY_600": "#33BBFF",
+    "YELLOW_300": "#33BBFF",
+    "YELLOW_360": "#33BBFF",
+    "YELLOW_400": "#33BBFF"
+    
   },
   "unsafe_colors": {
     "CHAT_GREY": "#FF85B6"
