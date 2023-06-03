@@ -11,7 +11,7 @@
   "theme_color_map": {
     "KEYBOARD": [
       "#101014",
-      "#F35999"
+      "#FFC2DA"
     ],
     "TEXT_NORMAL": [
       "#000000",
@@ -35,7 +35,7 @@
     ],
     "BACKGROUND_PRIMARY": [
       "#FFC2DA",
-      "#282424"
+      "#FFC2DA"
     ],
     "BACKGROUND_SECONDARY": [
       "#FF3385",
