@@ -117,6 +117,14 @@
       "#FFFFFF",
       "#000000"
     ],
+    "YELLOW_400": [
+      "#33BBFF",
+      "#33BBFF"
+    ],
+    "YELLOW_300": [
+      "#33BBFF",
+      "#33BBFF"
+    ],
     "HEADER_SECONDARY": [
       "#646464",
       "#FFFFFF"
@@ -130,11 +138,8 @@
     "BRAND_NEW": "#F35999",
     "BRAND_NEW_360": "#F794BD",
     "BRAND_NEW_500": "#33BBFF",
-    "YELLOW_400": "#33BBFF",
-    "YELLOW_300": "#33BBFF"
     "WHITE": "#FFFFFF",
-    "STATUS_RED": "#FF1F4F",
-    "STATUS_YELLOW": "#33BBFF",
+    "STATUS_RED": "#33BBFF",
     "STATUS_GREEN_600": "#07F985",
     "PRIMARY_600": "#33BBFF"
   },
