@@ -130,9 +130,9 @@
     "BRAND_NEW": "#F35999",
     "BRAND_NEW_360": "#F794BD",
     "BRAND_NEW_500": "#33BBFF",
-    "YELLOW_300": "#33BBFF",
     "WHITE": "#FFFFFF",
     "STATUS_RED": "#FF1F4F",
+    "STATUS_YELLOW": "#33BBFF",
     "STATUS_GREEN_600": "#07F985",
     "PRIMARY_600": "#33BBFF"
   },
