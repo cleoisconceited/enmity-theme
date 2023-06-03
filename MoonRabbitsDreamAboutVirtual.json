@@ -133,7 +133,8 @@
     "YELLOW_300": "#33BBFF",
     "WHITE": "#FFFFFF",
     "STATUS_RED": "#FF1F4F",
-    "STATUS_GREEN_600": "#07F985"
+    "STATUS_GREEN_600": "#07F985",
+    "PRIMARY_600": "#33BBFF"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#FF85B6"
