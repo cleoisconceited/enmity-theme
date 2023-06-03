@@ -118,6 +118,14 @@
       "#212327",
       "#FFC2DA"
     ],
+    "BACKGROUND_MENTIONED": [
+            "#0AADFF",
+            "#0AADFF"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+            "#0AADFF",
+            "#0AADFF"
+    ],
     "CHANNEL_ICON": [
       "#FFFFFF",
       "#000000"
