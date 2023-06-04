@@ -23,8 +23,8 @@
       "#5e6268"
     ],
     "TEXT_LINK": [
-      "#f400bb",
-      "#e000b3"
+      "#33bbff",
+      "#33bbff"
     ],
     "INTERACTIVE_MUTED": [
       "#3f444a",
@@ -120,7 +120,7 @@
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#212327",
-      "#FFC2DA"
+      "#000000"
     ],
     "BACKGROUND_MENTIONED": [
       "#0AADFF",
@@ -136,7 +136,7 @@
     ],
     "DEPRECATED_TEXT_INPUT_BG": [
        "#FFC2DA",
-       "#FFC2DA"
+       "#000000"
     ],
     "BRAND_NEW": [
       "#33bbff",
@@ -160,7 +160,7 @@
     ]
   },
   "rawColors": {
-    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_600": "#FFC2DA",
     "PRIMARY_DARK_500": "#000000",
     "PRIMARY_DARK_630": "#EFAAC7",
     "PRIMARY_DARK_800": "#B44171",
