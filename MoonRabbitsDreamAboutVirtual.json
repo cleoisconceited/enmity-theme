@@ -30,10 +30,6 @@
       "#3f444a",
       "#3f444a"
     ],
-    "INTERACTIVE_ACTIVE": [
-      "#FFFFFF",
-      "#FFFFFF"
-    ],
     "CHAT_BACKGROUND": [
       "#FFC2DA",
       "#282424"
@@ -87,8 +83,8 @@
       "#1AB7FA"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#FF3385",
-      "#FF5C9D"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
       "#1AB7FA",
