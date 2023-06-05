@@ -88,7 +88,7 @@
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#000000",
-      "#FFFFFF"
+      "#FFC2DA"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#3D4148",
@@ -128,7 +128,7 @@
     ],
     "DEPRECATED_TEXT_INPUT_BG": [
        "#FFC2DA",
-       "#000000"
+       "#FFC2DA"
     ],
     "BRAND_NEW": [
       "#33bbff",
